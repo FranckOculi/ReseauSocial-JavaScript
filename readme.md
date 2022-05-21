@@ -4,10 +4,10 @@
 
 Un simple réseau social créé avec le framework React.
 
-![img](FrontEnd\public/img/screenshot.png)
+![img](FrontEnd/public/img/screenshot.png)
 
 ---
-![img](FrontEnd\public/img/screenshot2.png)
+![img](FrontEnd/public/img/screenshot2.png)
 
 
 
