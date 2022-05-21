@@ -1,0 +1,8 @@
+@import './_app.css';
+@import './pages/_home.css';
+@import './components/_navbar.css';
+@import './components/_connection.css';
+@import './components/_postForm.css';
+@import './components/_threads.css';
+@import './components/_trends.css';
+@import './components/_friends.css';

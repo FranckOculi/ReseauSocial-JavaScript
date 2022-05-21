@@ -1,0 +1,40 @@
+.trending-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(249, 249, 249);
+  border: 1px solid lightgray;
+  justify-content: space-around;
+  border-radius: 7px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.trending-card {
+  margin-top: 8px;
+  display: flex;
+  width: 440px;
+  height: 80px;
+  background-color: white;
+  border: 2px solid lightgray;
+  border-radius: 15px;
+  align-items: center;
+}
+
+#trending-picture {
+  width: 55px;
+  height: 55px;
+  border-radius: 7px;
+  margin-left: 15px;
+}
+.trend-content {
+  margin-left: 15px;
+  display: flex;
+  width: 70%;
+  align-self: center;
+}
+
+.trend-content span {
+  align-self: flex-end;
+  text-align: end;
+}

@@ -1,0 +1,69 @@
+.connection-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgb(249, 249, 249);
+  border: 1px solid lightgray;
+  border-radius: 7px;
+}
+.connection-form-btn {
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+}
+#register,
+#login {
+  width: 110px;
+  height: 40px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.connection-form-btn .active {
+  background-color: #1f69ec;
+  border: none;
+  color: white;
+}
+
+.sign-up-form {
+  margin-top: 15px;
+}
+
+.connection-form input {
+  border: 1px solid rgb(197, 196, 196);
+  border-radius: 3px;
+}
+
+.terms-container {
+  position: absolute;
+  margin-top: -5px;
+  align-self: center;
+}
+
+#signup-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+#signup-btn input,
+#signin-btn input {
+  width: 140px;
+  height: 40px;
+  background-color: #1f69ec;
+  border: none;
+  color: white;
+}
+#signin-btn {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+#success {
+  margin-top: 10px;
+  color: green;
+  font-size: medium;
+}

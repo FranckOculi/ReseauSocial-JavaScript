@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+.right-side {
+  display: flex;
+  flex-direction: column;
+  width: 38%;
+  margin-top: 10px;
+}

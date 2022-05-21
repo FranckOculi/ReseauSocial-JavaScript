@@ -1,0 +1,40 @@
+.navbar {
+  border-bottom: 2px solid #e6e5e2;
+  height: 40px;
+  width: 100%;
+  background-color: white;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+#logo {
+  position: absolute;
+  top: -224px;
+  left: 415px;
+  scale: 0.05;
+  transform: translate(-50%, -50%);
+}
+.navbar p {
+  position: absolute;
+  top: 5px;
+  left: 700px;
+  font-weight: 600;
+  font-size: 17px;
+  color: rgb(81, 81, 81);
+}
+
+.bienvenue {
+  position: absolute;
+  top: 5px;
+  right: 710px;
+  text-align: end;
+  font-size: 17px;
+  color: rgb(81, 81, 81);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#logout {
+  right: 645px;
+  position: absolute;
+  scale: 0.78;
+}
