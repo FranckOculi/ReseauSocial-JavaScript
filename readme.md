@@ -16,7 +16,7 @@ Un simple réseau social créé avec le framework React.
 
 ---
 
-L'idée était de réaliser un premier "gros projet" qui fait appel à un serveur + base de données. Avec l'application, il est possible de :
+Avec l'application, il est possible de :
 
 - consulter les threads constituer de messages et / ou d'images et de vidéos (partie centrale),
 - liker, commenter et partager les posts,
