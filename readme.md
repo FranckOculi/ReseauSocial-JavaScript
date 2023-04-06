@@ -2,7 +2,7 @@
 
 ---
 
-Un simple réseau social créé avec le framework React.
+Un simple réseau social créé avec React.
 
 ![img](FrontEnd/public/img/screenshot.png)
 
